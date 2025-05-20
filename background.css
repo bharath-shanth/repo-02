@@ -1,0 +1,48 @@
+header>h1{
+    background-color: brown;
+    text-align: center;
+    position: sticky
+}
+nav{
+    bg image
+    ;
+    position: sticky;
+  /*  background-image:url(sahoo03.JPG) ;
+    background-position: center ;
+    background-attachment:fixed;
+    background-size:contain;
+    background-repeat:repeat;*/
+  
+   background-color: azure;
+   text-align: center;
+   padding: 10px;
+   font-size: 25px;
+
+   /*borders*/
+   border: 1px solid green;
+   border-bottom: dashed orange;
+    border-radius: 10px;
+    border-left: dotted rgb(0, 162, 255);
+    margin: 20spx;
+    list-style-type:circle;
+    
+    }
+    #image1{
+        width: 300px;
+        height: 300px;
+        border-radius: 5%;
+        border: 5px solid rgb(16, 143, 33);
+      float: right;
+     visibility:inherit;
+    }
+    article>p{
+        font-size: 30px;
+    }
+    
+   a{
+    color: blueviolet;
+
+   }
+   a:hover{color: rgb(16, 143, 33);}
+   a:visited{color: sienna;}
+   a:active{color: rgb(207, 250, 17);}
